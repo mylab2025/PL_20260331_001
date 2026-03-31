@@ -14,17 +14,18 @@
     "CompletionLog": [
       {
         "MID": "MID20311",
-        "Done": false
+        "Done": true
       },
       {
         "MID": "MID20308",
-        "Done": false
+        "Done": true
       },
       {
         "MID": "MID20346",
         "Done": true
       }
-    ]
+    ],
+    "Completed": true
   },
   "materials": [
     {
