@@ -14,11 +14,11 @@
     "CompletionLog": [
       {
         "MID": "MID20311",
-        "Done": true
+        "Done": false
       },
       {
         "MID": "MID20308",
-        "Done": false
+        "Done": true
       },
       {
         "MID": "MID20346",
