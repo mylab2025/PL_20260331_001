@@ -10,7 +10,21 @@
     "PlannedDate": "2026-04-04T00:00:00",
     "Remarks": "Drafting for encryption \u0026 Complete Order Implementation.\r\n\r\n*******APPROVED********",
     "Deducted": true,
-    "Approval": "Approved"
+    "Approval": "Approved",
+    "CompletionLog": [
+      {
+        "MID": "MID20311",
+        "Done": false
+      },
+      {
+        "MID": "MID20308",
+        "Done": false
+      },
+      {
+        "MID": "MID20346",
+        "Done": false
+      }
+    ]
   },
   "materials": [
     {
