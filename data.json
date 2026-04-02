@@ -4,28 +4,13 @@
     "CreatedOn": "2026-03-31T11:57:35.2672921Z",
     "CreatedBy": "k64121947",
     "EditedBy": "k64121947",
-    "EditedOn": "2026-03-31T11:58:24.7291544Z",
+    "EditedOn": "2026-04-02T10:41:54.9489792Z",
     "TotalEstimation": 0,
     "Status": "Ready",
     "PlannedDate": "2026-04-04T00:00:00",
     "Remarks": "Drafting for encryption \u0026 Complete Order Implementation.\r\n\r\n*******APPROVED********",
     "Deducted": true,
-    "Approval": "Approved",
-    "CompletionLog": [
-      {
-        "MID": "MID20311",
-        "Done": true
-      },
-      {
-        "MID": "MID20308",
-        "Done": true
-      },
-      {
-        "MID": "MID20346",
-        "Done": true
-      }
-    ],
-    "Completed": true
+    "Approval": "Rejected"
   },
   "materials": [
     {
